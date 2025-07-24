@@ -10,3 +10,13 @@ int main() {
     }
     return 0;
 }
+/*output
+outer :1
+inner :1
+inner :2
+inner :3
+outer :2
+inner :1
+inner :2
+inner :3
+*/
