@@ -16,10 +16,10 @@
 - Understand the syntax and behavior of `for`, `while`, and nested loops.
 - Implement control flow using `continue` and `exit(0)`.
 - Solve real-world logic problems like:
-  - Printing even numbers
-  - Validating passwords
-  - Reversing digits
-  - Generating star, number, and alphabet patterns
+  - Printing even numbers.   
+  - Validating passwords.    
+  - Reversing digits.    
+  - Generating star, number, and alphabet patterns.     
 
 ---
 
@@ -101,11 +101,11 @@ Algorithm:
 
 Output:
 
-Hi.    
-Hi.    
-Hi.    
-Hi.    
-Hi.    
+Hi.        
+Hi.        
+Hi.        
+Hi.        
+Hi.        
 
 
 ---
@@ -123,17 +123,17 @@ Algorithm:
 
 Output:
 
-0
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
+0.       
+2.        
+4.      
+6.     
+8.     
+10.     
+12.     
+14.    
+16.      
+18.       
+20.         
 
 
 ---
@@ -142,45 +142,45 @@ Output:
 
 Algorithm:
 
- - Take email and set password.
+ - Take email and set password.      
 
- - Use while loop to check entered password.
+ - Use while loop to check entered password.    
+  
+ - If incorrect, show menu:     
 
- - If incorrect, show menu:
-
-1. Retry
-
-
-2. Change password
+1. Retry.   
 
 
-3. Forgot password
+2. Change password.   
 
 
-4. Exit
+3. Forgot password.    
+
+
+4. Exit.     
 
 
 
 
 Sample Output:
 
-Enter your Email : abc@gmail.com 
-Set your password: abc
-Enter your password: abc
-Incorrect password!
---- MENU ---
-1. Retry login
-2. Change password
-3. Forgot password
-4. Exit
-Enter choice: 1
-Enter password: abcd
-Login successful! Welcome to your portal.
+Enter your Email : abc@gmail.com.     
+Set your password: abc.        
+Enter your password: abc.    
+Incorrect password!      
+--- MENU ---       
+1. Retry login.        
+2. Change password.      
+3. Forgot password.         
+4. Exit.       
+Enter choice: 1.       
+Enter password: abcd.       
+Login successful! Welcome to your portal.          
 
 
 ---
 
-### Program4. Reverse Digits of a Number
+### Program4. Reverse Digits of a Number.     
 
 Algorithm:
 
@@ -199,12 +199,11 @@ Algorithm:
 Output:
 
 Enter num:
-23069
-9
-6
-0
-3
-2
+23069.       
+9.     
+0.     
+3.     
+2.      
 
 
 ---
@@ -213,38 +212,38 @@ Enter num:
 
  Left-Aligned Triangle
 
-*
+`*
 **
 ***
 ****
-*****
+*****`
 
  Right-Aligned Triangle
 
-    *
+`   *
    **
   ***
  ****
-*****
+*****`
 
  Inverted Triangle
-
+`
 *****
 ****
 ***
 **
-*
+*`
 
  Equilateral Triangle
 
-    *
+ `  *
    * * 
   * * * 
  * * * * 
-* * * * *
+* * * * *`
 
  Hourglass Pattern
-
+`
 * * * * *
  * * * *
   * * *
@@ -253,7 +252,7 @@ Enter num:
    * *
   * * *
  * * * *
-* * * * *
+* * * * *`
 
  Pyramid
 
