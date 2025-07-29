@@ -1,14 +1,13 @@
-# Loop-Based C++ Programs
+# Loops In C++
 
-**Name:**   
-**PRN:** 24070123069  
-**Class:** ENTC A3  
-
+## Name: Maitraiyee Vashistha
+## PRN: 24070123057
+## Division: ENTC-A3
+## Title: loops In C ++
 ---
-
 ## Aim
 
-To study and implement different types of loops in C++, including `for` and `while`, and apply them to real-world problems such as password validation, pattern printing, and number reversal.
+*To study and implement different types of loops in C++, including `for` and `while`, and apply them to real-world problems such as password validation, pattern printing, and number reversal.*
 
 ---
 
@@ -66,10 +65,12 @@ Executes the loop body at least once.
 
 ---
 
-### Header File Used: <string>
+#### Header File Used: <string>
 
 Used for handling C-style strings (char arrays).
-Important functions:
+
+
+#### Important functions:
 
  - `strlen()` – Get string length
 
