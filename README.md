@@ -146,36 +146,19 @@ Algorithm:
 
  - Use while loop to check entered password.    
   
- - If incorrect, show menu:     
-
-1. Retry.   
-
-
-2. Change password.   
-
-
-3. Forgot password.    
-
-
-4. Exit.     
+ - If incorrect,Retry.   
+ 
 
 
 
 
 Sample Output:
 
-Enter your Email : abc@gmail.com.     
-Set your password: abc.        
-Enter your password: abc.    
-Incorrect password!      
---- MENU ---       
-1. Retry login.        
-2. Change password.      
-3. Forgot password.         
-4. Exit.       
-Enter choice: 1.       
-Enter password: abcd.       
-Login successful! Welcome to your portal.          
+Enter your email : xyz@gmail.com
+Enter the password : 547
+Incorrect Password !
+Enter the password : 123
+account unlocked !         
 
 
 ---
