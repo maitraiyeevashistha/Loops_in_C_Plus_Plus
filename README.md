@@ -32,25 +32,30 @@ Looping allows a block of code to be executed multiple times until a condition b
 #### 1. `for` Loop
 Used when the number of iterations is known.
 
-`for(initialization; condition; update) {
+```cpp
+for(initialization; condition; update) {
     // loop body
-}`
+}
+```
 
 #### 2. `while` Loop
 
 Used when the number of iterations is not predetermined.
 
-`while(condition) {
+```cpp
+while(condition) {
     // loop body
-}`
+}```
 
 #### 3. `do-while` Loop (Not used here)
 
 Executes the loop body at least once.
 
-`do {
+```cpp
+do {
     // code
-} while(condition);`
+} while(condition);
+```
 
 
 ---
@@ -101,12 +106,13 @@ Algorithm:
 
 Output:
 
+```cpp
 Hi.        
 Hi.        
 Hi.        
 Hi.        
 Hi.        
-
+```
 
 ---
 
@@ -123,6 +129,7 @@ Algorithm:
 
 Output:
 
+```cpp
 0
 2
 4
@@ -134,7 +141,7 @@ Output:
 16
 18
 20
-
+```
 
 ---
 
@@ -154,12 +161,13 @@ Algorithm:
 
 Sample Output:
 
+```cpp
 Enter your email : xyz@gmail.com
 Enter the password : 547
 Incorrect Password !
 Enter the password : 123
 account unlocked !         
-
+```
 
 ---
 
@@ -181,13 +189,14 @@ Algorithm:
 
 Output:
 
+```cpp
 Enter num:
 23069.       
 9.     
 0.     
 3.     
 2.      
-
+```
 
 ---
 
@@ -195,38 +204,45 @@ Enter num:
 
  Left-Aligned Triangle
 
-`*
+```cpp
+*
 **
 ***
 ****
-*****`
+*****
+```
 
  Right-Aligned Triangle
 
-`   *
+```cpp
+    *
    **
   ***
  ****
-*****`
+*****
+```
 
  Inverted Triangle
-`
+```cpp
 *****
 ****
 ***
 **
-*`
+*
+```
 
  Equilateral Triangle
 
- `  *
+ ```cpp
+    *
    * * 
   * * * 
  * * * * 
-* * * * *`
+* * * * *
+```
 
  Hourglass Pattern
-`
+```cpp
 * * * * *
  * * * *
   * * *
@@ -235,25 +251,28 @@ Enter num:
    * *
   * * *
  * * * *
-* * * * *`
+* * * * *
+```
 
  Pyramid
-
+```cpp
      *
     ***
    *****
   *******
  *********
+```
 
  Floyd’s Triangle
-
+```cpp
 1
 2 3
 4 5 6
 7 8 9 10
+```
 
  Diamond Pattern
-
+```cpp
     *
    * *
   * * *
@@ -263,17 +282,19 @@ Enter num:
   * * * 
    * * 
     *
+```
 
  Reverse Pyramid
-
+```cpp
 * * * * * *
   * * * *
    * * *
     * *
      *
+```
 
  Mirrored Right-Angled Triangle
-
+```cpp
     *
    **
   ***
@@ -283,41 +304,42 @@ Enter num:
   ***
    **
     *
+```
 
  Row Number Pyramid
-
+```cpp
 1
 2 2
 3 3 3
 4 4 4 4
 5 5 5 5 5
-
+```
  Number Triangle
-
+```cpp
     1
    23
   345
  4567
 56789
-
+```
  Alphabet Pyramid
-
+```cpp
 A
 BB
 CCC
 DDDD
 EEEEE
-
+```
  Continuous Alphabet Pyramid
-
+```cpp
 A
 BC
 DEF
 GHIJ
 KLMNO
-
+```
  Half Diamond Pattern
-
+```cpp
  *
  * *
  * * *
@@ -327,7 +349,7 @@ KLMNO
  * * *
  * *
  *
-
+```
 
 ---
 
